@@ -2,6 +2,9 @@
 
 This project uses crime data from 2012-2024 collected by [Politie Nederland](https://data.politie.nl/portal.html?_la=nl&_catalog=Politie&tableId=47013NED&_theme=115) and population data from the same period collected by the [Centraal Bureau voor Statistiek (CBS)](https://opendata.cbs.nl/#/CBS/nl/dataset/37230ned/table?ts=1766338546563) to calculate the total and violent crime rates per 1000 people at different geographic levels across the Netherlands.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ihlM24SVloG1rZwnPUF3LygHgoN0qcPQ?usp=sharing)
+
+
 <i><b>❓This project seeks to answer the following questions:</i></b>
 1) Has crime in the Netherlands actually been increasing, as many people seem to believe?
 2) Is there a difference in how violent crime rates have changed compared to total crime rates?
